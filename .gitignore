@@ -1,3 +1,4 @@
-node_modules
-testing
+/node_modules
+/debug
+/secrets
 .DS_Store
