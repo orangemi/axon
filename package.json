@@ -1,5 +1,5 @@
 {
-  "name": "axon-tls",
+  "name": "axon",
   "description": "High-level messaging & socket patterns implemented in pure js",
   "version": "2.1.0",
   "author": "Orange Mi <orangemiwj@gmail.com>",
