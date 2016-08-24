@@ -1,13 +1,16 @@
 # Axon
 
-  Axon is a message-oriented socket library for node.js heavily inspired by zeromq. For a light-weight
+  axon-tls is a fork of [Axon](https://www.npmjs.org/package/axon). Axon is a message-oriented socket library for node.js heavily inspired by zeromq. For a light-weight
   UDP alternative you may be interested in [punt](https://github.com/tj/punt).
 
-[![Build Status](https://travis-ci.org/tj/axon.png)](https://travis-ci.org/tj/axon)
+## Difference
+  
+  - It provides tls connection between server and client.
+  - Retry has a limitation (default is 1000).
 
 ## Installation
 
-    $ npm install axon
+    $ npm install axon-tls
 
 ## Features
 
